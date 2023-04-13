@@ -19,8 +19,8 @@ jobs:
         SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
       with:
         args: >
-          -Dsonar.organization=<PUT YOUR ORGANIZATION NAME>
-          -Dsonar.projectKey=< PUT YOUR PROJECT KEY NAME>
+          -Dsonar.organization=eagle-hub
+          -Dsonar.projectKey=devsecops_demo
   security:
     runs-on: ubuntu-latest
     needs: build
