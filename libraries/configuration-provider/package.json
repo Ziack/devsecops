@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/practicajs/practica#readme",
   "dependencies": {
-    "convict": "^6.2.2"
+    "convict": "^6.2.4"
   },
   "devDependencies": {
     "@types/convict": "^6.1.1",
