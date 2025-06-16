@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@practica/request-context": "^0.1.0",
-    "@practica/configuration-provider": "^0.0.1-alpha.1",
+    "@practica/configuration-provider": "^0.0.2",
     "pino": "^8.5.0"
   },
   "devDependencies": {
