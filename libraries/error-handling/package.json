@@ -28,6 +28,6 @@
     "@practica/logger": "^0.0.1-alpha.4",
     "jest": "^28.1.0",
     "jest-sinon": "^1.0.4",
-    "sinon": "^14.0.0"
+    "sinon": "^16.1.2"
   }
 }
